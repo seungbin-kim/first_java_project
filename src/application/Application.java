@@ -15,7 +15,6 @@ public class Application {
   private static Scanner scanner = new Scanner(System.in);
   private static User currentUser;
 
-  // 검색기능 추가, 로그아웃기능 제대로 수정
   public static void main(String[] args) {
     Menu menu = new Menu();
 
